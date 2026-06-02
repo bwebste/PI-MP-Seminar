@@ -4,15 +4,11 @@ title: Main
 nav_order: 1
 ---
 
-The Mathematical Physics Seminar at Perimeter Institute is a weekly seminar exploring current topics in mathematical physics through talks and guided readings.
 
 ## Meeting details
 
-- **Institution/Department:** Perimeter Institute
-- **Year:** 2026--2027
-- **Frequency:** Weekly
 - **Location:** Perimeter Institute (room and hybrid details announced weekly)
-- **Time:** TBD
+- **Date/Time:** TBD
 
 ## Organizer
 
