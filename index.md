@@ -28,3 +28,4 @@ The Mathematical Physics Seminar at Perimeter Institute is a weekly seminar expl
 - See [Speakers](speakers/) for confirmed and prospective speakers.
 - See [Announcements](announcements/) for updates.
 - See [Resources](resources/) for background references.
+- See [Past Seminars](past-seminars/) for recorded Mathematical Physics talks from PIRSA.

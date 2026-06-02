@@ -5,7 +5,7 @@ nav_order: 2
 
 # Weekly Schedule
 
-Use this page as the single source of truth for weekly meetings.
+
 
 | Week | Date | Speaker | Topic | Readings | Notes |
 |---|---|---|---|---|---|
