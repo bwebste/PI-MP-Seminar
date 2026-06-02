@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Mathematical Physics Seminar
+title: Main
 nav_order: 1
 ---
-
-# Mathematical Physics Seminar
 
 The Mathematical Physics Seminar at Perimeter Institute is a weekly seminar exploring current topics in mathematical physics through talks and guided readings.
 
@@ -18,13 +16,13 @@ The Mathematical Physics Seminar at Perimeter Institute is a weekly seminar expl
 
 ## Organizer
 
-- **Organizer:** Seminar Coordinator (TBD)
-- **Contact:** seminar@perimeterinstitute.ca
+- **Organizer:** Mayuko Yamashita
+- **Contact:** myamashita@perimeterinstitute.ca
 
-## Getting started
+## Weekly schedule
 
-- See the [Schedule](schedule/) for weekly meetings.
-- See [Readings](readings/) for linked papers and notes.
-- See [Speakers](speakers/) for confirmed and prospective speakers.
-- See [Announcements](announcements/) for updates.
-- See [Resources](resources/) for background references.
+| Week | Date | Speaker | Topic | Readings | Notes |
+|---|---|---|---|---|---|
+| Week 1 | 2026-01-14 | Organizer | Introduction | [Week 1 readings](readings/#week-1) | Seminar overview and format |
+| Week 2 | 2026-01-21 | TBA | [Topic] | [Week 2 readings](readings/#week-2) | |
+| Week 3 | 2026-01-28 | [Speaker / Reading] | [Topic] | [Week 3 readings](readings/#week-3) | Optional discussion notes |
