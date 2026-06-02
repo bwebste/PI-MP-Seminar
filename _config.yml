@@ -1,0 +1,16 @@
+title: Mathematical Physics Seminar
+description: A weekly seminar exploring current topics in mathematical physics through talks and guided readings.
+url: "https://bwebste.github.io"
+baseurl: "/PI-MP-Seminar"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/bwebste/PI-MP-Seminar"
