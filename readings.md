@@ -1,6 +1,7 @@
 ---
 title: Readings
 nav_order: 4
+permalink: /readings/
 ---
 
 # Readings

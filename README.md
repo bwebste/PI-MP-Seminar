@@ -7,7 +7,7 @@ This repository contains the Jekyll/Just the Docs (Just the Class-style) source 
 
 ## Editing the schedule
 
-1. Open `/schedule.md`.
+1. Open `/group-meeting.md`.
 2. Update the table row for each week (date, speaker, topic, readings, notes).
 3. Add or update matching reading details in `/readings.md`.
 

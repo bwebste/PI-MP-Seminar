@@ -1,6 +1,7 @@
 ---
 title: Past Seminars
 nav_order: 3
+permalink: /past-seminars/
 ---
 
 # Past Seminars

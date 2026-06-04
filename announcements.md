@@ -1,6 +1,7 @@
 ---
 title: Announcements
 nav_order: 5
+permalink: /announcements/
 ---
 
 # Announcements
