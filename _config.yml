@@ -1,4 +1,4 @@
-title: PI Mathematical Physics seminar
+title: PI MPhys seminar
 description: A weekly seminar exploring current topics in mathematical physics through talks and guided readings.
 url: "https://bwebste.github.io"
 baseurl: "/PI-MP-Seminar"
@@ -7,12 +7,8 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-favicon_ico: "https://perimeterinstitute.ca/sites/default/files/PI_symbol_48px.ico"
+favicon_ico: "/PI-MP-Seminar/PI.ico"
 
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-
-aux_links:
-  "GitHub Repository":
-    - "https://github.com/bwebste/PI-MP-Seminar"

@@ -5,7 +5,16 @@ permalink: /group-meeting/
 ---
 
 
-Group meeting a more informal menu for talks:
+A more informal venue for talks.  
+
+## Meeting details
+
+- **Location:** Perimeter Institute (room and hybrid details announced weekly)
+- **Date/Time:** TBD
+
+Organizers:
+- Meri Zaimi (mzaimi@perimeterinstitute.ca)
+- Nikita Grygoryev (ngrygoryev@perimeterinstitute.ca)
 
 
 ## Weekly schedule

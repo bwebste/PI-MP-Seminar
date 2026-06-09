@@ -11,10 +11,10 @@ permalink: /
 - **Location:** Perimeter Institute (room and hybrid details announced weekly)
 - **Date/Time:** TBD
 
-## Organizer
+**Organizers:** 
+- Mayuko Yamashita (myamashita@perimeterinstitute.ca) 
+- Mykola Semenyakin (msemenyakin@perimeterinstitute)
 
-- **Organizer:** Mayuko Yamashita
-- **Contact:** myamashita@perimeterinstitute.ca
 
 ## Weekly schedule
 

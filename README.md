@@ -13,7 +13,17 @@ This repository contains the Jekyll/Just the Docs (Just the Class-style) source 
 
 ## Preview locally with Jekyll
 
-1. Install Ruby and Bundler.
+GitHub Pages currently builds with Ruby 3.3.4, `github-pages` 232, and Jekyll 3.10.0. Use Ruby 3.3.x locally; Homebrew's latest Ruby may be too new and can cause Bundler to fall back to very old `github-pages` versions.
+
+1. Install Ruby 3.3.4 and Bundler. With `rbenv`:
+   ```bash
+   brew install rbenv ruby-build
+   echo 'eval "$(rbenv init - bash)"' >> ~/.bash_profile
+   exec "$SHELL" -l
+   rbenv install 3.3.4
+   rbenv local 3.3.4
+   gem install bundler:4.0.12
+   ```
 2. Install dependencies:
    ```bash
    bundle install
